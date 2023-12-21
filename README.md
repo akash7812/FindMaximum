@@ -61,7 +61,7 @@ def max_marks(list1):
 ## Sample Input and Output
 ![output](https://github.com/akash7812/FindMaximum/assets/146819826/7cc2722a-67e8-4de9-b5a3-5d0c35fb3f0a)
 
-![output]![max_marks2](https://github.com/akash7812/FindMaximum/assets/146819826/fe7858b7-5f33-4a3a-9474-e3022d412e84)
+![output](https://github.com/akash7812/FindMaximum/assets/146819826/fe7858b7-5f33-4a3a-9474-e3022d412e84)
 
 
 ## Output:
